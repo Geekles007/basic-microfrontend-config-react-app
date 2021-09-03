@@ -3,7 +3,7 @@ import * as React from "react";
 const App = () => (
     <div>
         <h1>Typescript</h1>
-        <h2>Host module</h2>
+        <h2>Core module</h2>
     </div>
 );
 
